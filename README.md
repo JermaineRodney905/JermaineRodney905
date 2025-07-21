@@ -1,3 +1,3 @@
 Hi. I’m Jermaine. — a multidisciplinary designer and front-end developer with a background in studio art, motion graphics, and email development. I love blending creativity with code to craft visually compelling and functional digital experiences. The tools I use are HTML5, Javascript, Python, AmpScript, Litmus, SalesForce, Adobe Suite, Figma & Blender. 
 
-How to reach me:[@instagram](https://instagram.com/jprodney) or my personal [_website_](https://www.google.ca)
+You can reach me here [_linkedIn_](https://www.linkedin.com/in/jermainerodney/) or my social pages [_website_](https://www.instagram.com/jprodney/)
